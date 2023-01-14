@@ -32,3 +32,17 @@
     margin-bottom: 20px;
 }
 
+.tittle h2{
+    font-size: 44px;
+    color: #0A1B59;
+    width: 80%;
+    margin-bottom: 20px;
+}
+
+.explain p{
+    width: 80%;
+    font-size: 16px;
+    line-height: 32px;
+    color: #0a1b597e;
+    margin-bottom: 40px;
+}
