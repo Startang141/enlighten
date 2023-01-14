@@ -5,3 +5,30 @@
     margin: 0;
     padding: 0;
 }
+
+.container{
+    width: 1440px;
+    margin: 0 auto;
+}
+
+.login-page{
+    display: flex;
+    justify-content: space-between;
+}
+
+.side-text{
+    padding: 70px 144px 317px 130px;
+}
+
+.btn-coming{
+    color: #113FE2;
+    background-color: #113ee211;
+    border: none;
+    padding: 5px 15px;
+    border-radius: 100px;
+    font-weight: 600;
+    letter-spacing: 2px;
+    margin-top: 161px;
+    margin-bottom: 20px;
+}
+
